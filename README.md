@@ -1,2 +1,3 @@
 # js_calculator
-![image](https://user-images.githubusercontent.com/100260281/221126650-9bbb63e5-140b-4de5-9ba6-7ecc9b9ad763.png)
+
+![Screenshot (57)](https://user-images.githubusercontent.com/100260281/221126832-b149f60f-a577-4343-a3b8-905fab2f290a.png)
